@@ -1,4 +1,4 @@
-<?php  namespace Johntaa\Arabic\Arabic;
+<?php  namespace Spondonit\Arabic\Arabic;
 /**
  * ----------------------------------------------------------------------
  *

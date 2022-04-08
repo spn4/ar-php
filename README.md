@@ -1,14 +1,14 @@
 # Contribution to Ar-PHP Library, namespace-psr4 added
 
 ## Install
-Add the "johntaa/ar-php": "dev-master" into the require section of your composer.json.
+Add the "spondonit/ar-php": "dev-master" into the require section of your composer.json.
 Run composer install.
 
 
 ## Usage
 
     <?php
-	use Johntaa\Arabic\I18N_Arabic;
+	use Spondonit\Arabic\I18N_Arabic;
 	
 		$Arabic = new I18N_Arabic('Glyphs'); 
 		
